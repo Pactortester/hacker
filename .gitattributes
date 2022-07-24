@@ -16,3 +16,4 @@ sqlmap.7z filter=lfs diff=lfs merge=lfs -text
 字典_2.7z filter=lfs diff=lfs merge=lfs -text
 安卓逆向.7z filter=lfs diff=lfs merge=lfs -text
 信息隐藏.7z filter=lfs diff=lfs merge=lfs -text
+科学上网/ filter=lfs diff=lfs merge=lfs -text
