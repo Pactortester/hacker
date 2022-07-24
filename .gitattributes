@@ -1,1 +1,5 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+cobaltstrike4.0.zip filter=lfs diff=lfs merge=lfs -text
+awvs14安装包.zip filter=lfs diff=lfs merge=lfs -text
+价值100元社工库.zip filter=lfs diff=lfs merge=lfs -text
+metasploit-framework-6.2.3+20220611153112-1rapid7-1-x64.msi filter=lfs diff=lfs merge=lfs -text
