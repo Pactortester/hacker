@@ -12,3 +12,4 @@ sqlmap.7z filter=lfs diff=lfs merge=lfs -text
 免杀工具.7z filter=lfs diff=lfs merge=lfs -text
 内网渗透.7z filter=lfs diff=lfs merge=lfs -text
 网站扫描.7z filter=lfs diff=lfs merge=lfs -text
+编辑器/ filter=lfs diff=lfs merge=lfs -text
